@@ -1,4 +1,6 @@
-# Hongbusi's Blog
+# blog
+
+<samp><b>Hongbusi's blog.</b></samp>
 
 ## License
 
